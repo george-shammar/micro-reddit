@@ -35,7 +35,7 @@ This project's intention was to create data modeling i.e. writing ````data, asso
 
 - Create new folder.
 - Open your terminal.
-- Run ``` git clone https://github.com/pipe2442/Linter.git ```.
+- Run ``` git clone https://github.com/george-shammar/micro-reddit.git ```.
 - Enter root folder with command ``` cd micro-reddit ```.
 - In the terminal from the root folder, type ``` rails c ``` and run all test units as displayed in the the Odin projects https://www.theodinproject.com/courses/ruby-on-rails/lessons/building-with-active-record-ruby-on-rails
 
